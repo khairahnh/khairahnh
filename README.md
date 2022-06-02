@@ -1,0 +1,16 @@
+## HEY THERE :wave:
+
+- :woman_with_headscarf: Hi I’m Khairah or you can just call me Kay. 
+
+- 👀  I’m interested in Data Science and Machine Learning. However, I am new in this field so I'm taking a step at a time. 
+
+- 🌱 I’m currently learning Python for data analysis and visualization and plan to do more projects on this. After that I plan to learn more Data Science and Machine Learning.
+ 
+- :wrench: Tools and technologies that I'm using are Python, Pandas, Numpy, Matplotlib, Seaborn, Excel, SQL.
+
+- 📫 How to reach me [Gmail](knuraishah@gmail.com) | [Linkedin](www.linkedin.com/in/khairah-nuraishah-haleman-a8b98b199) | [Twitter](https://twitter.com/KayHyeji)
+
+<!---
+khairahnh/khairahnh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
