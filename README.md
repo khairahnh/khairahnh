@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Python for data analysis and visualization and plan to do more projects on this. After that I plan to learn more Data Science and Machine Learning.
  
-- :wrench: Tools and technologies that I'm using are Python, Pandas, Numpy, Matplotlib, Seaborn, Excel, SQL.
+- :wrench:  Programming languages and technologies that I'm using are Python, Spark, Pandas, Numpy, Matplotlib, Seaborn, Excel, SQL.
 
 - 📫 How to reach me [Gmail](knuraishah@gmail.com) | [Linkedin](www.linkedin.com/in/khairah-nuraishah-haleman-a8b98b199) | [Twitter](https://twitter.com/KayHyeji)
 
