@@ -2,7 +2,7 @@
 
 - :woman_with_headscarf: Hi I’m Khairah or you can just call me Kay. 
 
-- 👀  I’m interested in Data Science and Machine Learning. However, I am new in this field so I'm taking a step at a time. 
+- 👀  I’m interested in Data Science and Machine Learning. However, I am new in this field so I'm taking one step at a time. 
 
 - 🌱 I’m currently learning Python for data analysis and visualization and plan to do more projects on this. After that I plan to learn more Data Science and Machine Learning.
  
