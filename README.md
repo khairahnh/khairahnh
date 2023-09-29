@@ -1,8 +1,6 @@
 ## HEY THERE :wave:
 
 - :woman_with_headscarf: Hi I’m Khairah or you can just call me Kay. 
-
-- 👀  I’m interested in Data Science and Machine Learning. However, I am new in this field so I'm taking one step at a time. 
  
 - :wrench:  Programming languages and technologies that I'm using are Python, Spark, Pandas, Numpy, Matplotlib, Seaborn, Excel, SQL.
 
